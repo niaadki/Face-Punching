@@ -5,8 +5,6 @@ Hello Everyone this is Ankit Bhatia, Student Full-Stack Developer pursuing my B.
 This is one of my project's in Java-Python Developement field  which i have created,basically Java and Python Based 
 Student Security Attendance System called Staysafe Security System that uses the property of Real-Time Face Recognition as well as QR Based Attendence Punching by the students.
 
-### For More Details or Any Suggestions u can Reach me at ankit.bhatia1220@gmail.com
-
 - Students punch their attendence using QR Code on their ID Cards over the inbuilt application webcam QR scanner.
 
 - Before punching the attendence they need to scan their face onto the webcam/camera to ensure they are the same as they are labelled to be for the case of security.
